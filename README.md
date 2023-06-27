@@ -1,1 +1,1 @@
-# qrpt11KimsFinalProject
+# qrpt11-kims-solo-project
